@@ -42,7 +42,7 @@ An interactive JUCE circular knob with real-time interpolated curve display, ide
 
 
 
-![Tool demonstration](animals.gif)
+![Tool demonstration](animals.gif =300x300)
 
 
 
