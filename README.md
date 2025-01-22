@@ -62,7 +62,7 @@ A typical application involves smooth interpolation between waveforms (e.g., sin
 
 
 
-View a demonstration of the Moonjelly Knob with audio: [Watch Video](https://github.com/your-repo/issues/1)
+View a demonstration of the Moonjelly Knob with audio: [Watch Video](demo_exampleproj.mp4)
 
 
 
